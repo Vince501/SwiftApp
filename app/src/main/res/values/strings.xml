@@ -30,4 +30,13 @@
     <string name="person_icon">person icon</string>
     <string name="email_icon">email icon</string>
     <string name="phone_icon">phone icon</string>
+
+
+    <string name="emergency_services">EMERGENCY SERVICES</string>
+    <string name="fire">FIRE</string>
+    <string name="police">POLICE</string>
+    <string name="ambulance">AMBULANCE</string>
+    <string name="road_accidents">ROAD ACCIDENTS</string>
+    <string name="floods">FLOODS</string>
+    <string name="username">Username</string>
 </resources>
