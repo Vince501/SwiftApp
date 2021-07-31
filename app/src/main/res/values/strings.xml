@@ -39,4 +39,10 @@
     <string name="road_accidents">ROAD ACCIDENTS</string>
     <string name="floods">FLOODS</string>
     <string name="username">Username</string>
+    <string name="fireimage">fireImage</string>
+    <string name="policeimage">policeImage</string>
+    <string name="ambulanceimage">ambulanceImage</string>
+    <string name="accidentimage">accidentImage</string>
+    <string name="floodsimage">floodsImage</string>
+    <string name="violence">VIOLENCE</string>
 </resources>
